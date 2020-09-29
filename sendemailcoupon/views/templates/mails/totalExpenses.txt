@@ -1,0 +1,5 @@
+Hi {firstname} {lastname},     
+      
+We have registered your last order with id {order}.
+
+Your spending in our store has reached {totalamount} {currency}.

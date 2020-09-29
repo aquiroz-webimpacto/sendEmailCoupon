@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>sendemailcoupon</name>
+    <displayName><![CDATA[Modulo para desplegar texto en posiciones]]></displayName>
+    <version><![CDATA[1.0]]></version>
+    <description><![CDATA[Este modulo fue creado por solicitud Punto 1 webimpacto]]></description>
+    <author><![CDATA[Aquiroz]]></author>
+    <tab><![CDATA[]]></tab>
+	<confirmUninstall><![CDATA[Estas seguro de querer remover el modulo]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

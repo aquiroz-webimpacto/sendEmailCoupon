@@ -1,0 +1,15 @@
+Hi {firstname} {lastname},
+      
+We have registered your last order with id {order}.
+
+Your spending in our store has reached {totalamount} {currency}.
+
+Congratulations!
+
+Your purchases have generated a discount coupon!
+
+We give you your new discount coupon that you can use in our store
+
+Discount code: {coupon}
+
+Discount amount: {money} {currency}
